@@ -1,4 +1,4 @@
-# JekyllRedirectFrom
+#script/testJekyllRedirectFrom
 
 Give your Jekyll posts and pages multiple URLs.
 
